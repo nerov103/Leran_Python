@@ -8,7 +8,7 @@ class new_class:
 '''
 jode aiter attribute nam bol hoy tahola tome "not show this massge ai massge ta print korba are  na hola tome crreat ans ta show korba
 '''
-obj = getattr(new_class, "roll", "Not show this massge")
+obj = getattr(new_class, "rollx", "Not show this massge")
 print(obj)
 
 # print(getattr(newFUNCTION, 'roll', "Nerov hello"))
