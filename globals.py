@@ -1,4 +1,8 @@
 # print(globals())
+'''
+this is globals varable 
+ima show how to use tihs  function
+'''
 a = 20
 def show():
     a = 10
