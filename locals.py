@@ -8,7 +8,9 @@ def locals_x():
 
 locals_x()
 print(locals())
+
 #this is another function
+
 def function2():
     print(locals())
 function2()
