@@ -15,10 +15,10 @@ number = [1, 2, 3, 4, 5, 6, 9]
 #     stor.append(mkae_even(i))
 
 #this is another why
-# wya2 = map(mkae_even, number)
-# print(list(wya2))
+wya2 = map(mkae_even, number)
+print(list(wya2))
 
 #this is anotehr why
-why3 = [mkae_even(j) for j in number]
-print(why3)
+# why3 = [mkae_even(j) for j in number]
+# print(why3)
 # print(stor)

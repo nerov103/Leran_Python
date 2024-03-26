@@ -3,7 +3,6 @@ my_dics = {
     'Key2',
     'Key3'
 }
-value1 = "Python"
-value2 = "javascript"
-your = dict.fromkeys(my_dics,  value1, value2)
+value1 = "Python","javascript"
+your = dict.fromkeys(my_dics,  )
 print(your)
