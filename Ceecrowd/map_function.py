@@ -5,4 +5,7 @@ maping = list(map(float, value))
 print(maping)
 print(len(maping))
 print(maping[0])
-print(type(maping))
+print(type(maping)) 
+
+#math.sqrt == (example)**0.5  
+#amra jani sqrt root mana holo: Hap == 0.5

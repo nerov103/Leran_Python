@@ -7,4 +7,3 @@ for i in demo:
         value+=i
 
 print(value)
-

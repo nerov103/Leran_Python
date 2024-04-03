@@ -24,7 +24,5 @@
 
 x1, x2 = list(map(float, input().split(" ")))
 y1, y2 = list(map(float, input().split(" ")))
-
 result = ((y1 - x1)**2 + (y2 - x2)**2)**0.5
-
 print(f"{result:.4f}")

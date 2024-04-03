@@ -7,3 +7,4 @@ for i in my_data:
     print(f"{user//i} nota(s) de R$ {i},00")
     user = user%i
 
+

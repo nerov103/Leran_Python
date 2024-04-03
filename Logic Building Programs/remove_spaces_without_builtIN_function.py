@@ -11,4 +11,3 @@ for i in demo_str:
         spase +=i
 
 print(spase)
-    
