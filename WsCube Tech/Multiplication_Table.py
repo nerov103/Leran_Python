@@ -7,3 +7,4 @@ table = int(input("enter your number here:"))
 
 #use to while loop
 i = 10
+#thia is another day    
